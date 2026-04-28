@@ -114,12 +114,12 @@ p{
 }
 
 .gold{
- background-color: aliceblue;
- align-items: baseline;
- border-radius: 50%;
- padding-right: -100%;
- margin-top: 20px;
-  box-shadow: 10px 5px 5px goldenrod;
+   background-color: aliceblue;
+   align-items: baseline;
+   border-radius: 50%;
+   padding-right: -100%;
+   margin-top: 20px;
+   box-shadow: 10px 5px 5px goldenrod;
 }
 
 .manubar{
